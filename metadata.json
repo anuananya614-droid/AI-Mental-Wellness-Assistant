@@ -1,0 +1,11 @@
+{
+  "name": "AI-Powered Mental Wellness Assistant",
+  "description": "An intelligent, empathetic mental wellness companion featuring multimodal emotion recognition across text, voice, live facial expressions, and uploaded photos with multilingual support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
